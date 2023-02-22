@@ -3,3 +3,6 @@ build
 Examples/esp32.svd
 Examples/debug.cfg
 Examples/debug_custom.json
+examples/home_assistant_text/debug_custom.json
+examples/home_assistant_text/debug.cfg
+examples/home_assistant_text/esp32.svd
